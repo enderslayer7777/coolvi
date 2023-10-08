@@ -1,5 +1,5 @@
 # The Government of Cool VI
-## [Register to vote online](https://vote.coolvi.net)  •  [Read the news](news.coolvi.net/local)  •  [Local governments](local.coolvi.net)
+## [Register to vote online](https://vote.coolvi.net)  •  [Read the news](https://news.coolvi.net/local)  •  [Local governments](https://local.coolvi.net)
 ### Your Cool VI Government
 
 * President - Craft_Coder
@@ -23,4 +23,6 @@
 ### Headline National News
 #### From the Cool VI Review
 
-* New VP
+* [New Vice President of Cool VI (JJiscool862)](https://news.coolvi.net/coolvireview/2023/10/08-14/new-vp)
+* [New Assistant Justice of the Cool VI Supreme Court]([https://](https://news.coolvi.net/coolvireview/2023/10/08-14/new-assistant-justice)
+* [Complete Revision of the Consitution Underway](https://news.coolvi.net/coolvireview/2023/10/08-14/major-constitutional-changes-underway)
