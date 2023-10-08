@@ -1,6 +1,7 @@
 # The Government of Cool VI
 ## [Register to vote online](https://vote.coolvi.net)  •  [Read the news](news.coolvi.net/local)  •  [Local governments](local.coolvi.net)
 ### Your Cool VI Government
+
 * President - Craft_Coder
 * Vice President - JJiscool862
 * Prime Minister - Craft_Coder
