@@ -1,2 +1,1 @@
-## The Government of
-# Cool VI
+# The Government of Cool VI
