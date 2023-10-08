@@ -24,5 +24,5 @@
 #### From the Cool VI Review
 
 * [New Vice President of Cool VI (JJiscool862)](https://news.coolvi.net/coolvireview/2023/10/08-14/new-vp)
-* [New Assistant Justice of the Cool VI Supreme Court]([https://](https://news.coolvi.net/coolvireview/2023/10/08-14/new-assistant-justice)
+* [New Assistant Justice of the Cool VI Supreme Court](https://https://news.coolvi.net/coolvireview/2023/10/08-14/new-assistant-justice)
 * [Complete Revision of the Consitution Underway](https://news.coolvi.net/coolvireview/2023/10/08-14/major-constitutional-changes-underway)
