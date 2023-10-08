@@ -19,3 +19,8 @@
 * Associate Justice - Craft_Coder
 * Associate Justice - Craft_Coder
 * Associate Justice - JJiscool862
+
+### Headline National News
+#### From the Cool VI Review
+
+* New VP
